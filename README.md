@@ -6,5 +6,4 @@ It's a fun and simple way to learn how to use Python libraries and enjoy some li
 
 ## Requirements
 
-To run this program, you need Python 3.x installed and the `pyjoke` library. You can install the `pyjoke` module using pip:
-BASH: pip install pyjoke
+To run this program, you need Python 3.x installed and the `pyjoke` library. You can install the `pyjoke` module using pip: `pip install pyjoke`
