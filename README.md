@@ -81,6 +81,9 @@ This repository showcases a variety of Python projects that are both entertainin
 ### 6. ✂️ Stone Paper Scissors (Version 2)  
 - **Description:**  
   A refined version of the classic Stone, Paper, Scissors game, with better game logic and a smoother player experience.
+<div style="text-align: center; padding-left: 20px;">
+  <img src="https://github.com/user-attachments/assets/8e1463ec-a6cd-4b8d-86c9-7aada7211580" width="400" />
+</div>
 
 ---
 
